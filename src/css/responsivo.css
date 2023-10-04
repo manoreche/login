@@ -1,0 +1,7 @@
+@media(max-width: 450px){
+
+.login{
+backdrop-filter: blur(50%);
+width: 350px;
+}
+}
